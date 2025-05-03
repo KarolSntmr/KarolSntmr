@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KarolSntmr
-- 👀 I’m interested in ... Leaaarning  & also Theatre and acting 
+- 👀 I’m interested in ... Leaaarning  
 - 🌱 I’m currently learning ...Python 
 - 💞️ I’m looking to collaborate on ...  
 - 📫 How to reach me ...
